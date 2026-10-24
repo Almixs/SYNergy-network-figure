@@ -63,7 +63,7 @@ YBUS = 100
 d.line([(62, 57), (62, YBUS)], "ipsec", z=1.3)
 d.line([(118, 57), (118, YBUS)], "ipsec", z=1.3)
 d.line([(27, YBUS), (155, YBUS)], "ipsec")
-d.tag(90, YBUS, "IPsec AES-256-GCM, IKEv2: every edge AR ↔ hubs of DC-1 and DC-2 · GRE + MPLS L3VPN inside · BFD 300 ms × 3",
+d.tag(90, YBUS, "IPsec AES-256 + SHA-256, IKEv2: every edge AR ↔ hubs of DC-1 and DC-2 · GRE + MPLS L3VPN inside · BFD 300 ms × 3",
       color="#C55A11", size=4.8)
 
 # ------------------------------------------------------------ Sites 3 and 2

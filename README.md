@@ -1,6 +1,6 @@
 # SYNergy-figures: схеми документа HLD/LLD
 
-Python-скрипти, які малюють схеми документа `SYNergy_campus_HLD_LLD` (v0.99.2). Усі числа, назви й моделі взято з тексту документа; джерело кожного рисунка вказано в шапці його скрипта.
+Python-скрипти, які малюють схеми документа `SYNergy_campus_HLD_LLD` (v0.99.7). Усі числа, назви й моделі взято з тексту документа; джерело кожного рисунка вказано в шапці його скрипта.
 
 ## Склад
 
@@ -15,6 +15,7 @@ Python-скрипти, які малюють схеми документа `SYNe
 | `fig10_academic.py` | Fig. 10 Academic building | `out/fig10_academic.*` |
 | `fig11_dormitory.py` | Fig. 11 Dormitory | `out/fig11_dormitory.*` |
 | `fig25_segmentation.py` | Fig. 25 Segmentation and DMZ | `out/fig25_segmentation.*` |
+| `fig26_gantt.py` | Fig. 26 Deployment plan (Gantt) | `out/fig26_gantt.*` |
 
 Допоміжні модулі:
 - `hwdraw.py` — спільний стиль: іконки, зони, типи ліній, підписи, легенда. Колір і товщину лінії задано в одному місці (`LINKS`), тому всі рисунки однакові.

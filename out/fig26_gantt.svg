@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="510.23622pt" height="300.472441pt" viewBox="0 0 510.23622 300.472441" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:c2pa="http://c2pa.org/manifest">
+ <metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkNjBiMDdlYy03NTc3LTQ5NDMtODYwZS1lYzQxZDk0ODAzYjUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMSskElOqT/UDELhGiJpLaoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxM2E4NDFiMy00NTQ2LTRlNjctYjNiMS04NThiOGU5MzJlOWVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNon5G6qZS19U+ap5F1kyUOsgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggiPY4g0LI/wef2QgiKn28OKvR8stQixpTnFaOdzUHUTGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDZmlFl2WCctyIYxDCBuKTgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIEAFlUThChlrPB8fhC021/q6t/nPs16HZhYXeK46Q9cmZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQGLZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ2MGIwN2VjLTc1NzctNDk0My04NjBlLWVjNDFkOTQ4MDNiNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc1NThkMWVhLWVlZGQtNGFmNC1hZWU5LTJhMzQ4YjVjMTNlMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCI9jiDQsj/B5/ZCCIqfbw4q9Hyy1CLGlOcVo53NQdRMaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggzITeOpWTV25efgHtdpykDHhVHc3ygpBHhQFdxdpBzD2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggqRNwFMDGCggEZAnHyN+hdl9Nx+tumHb2rMCWoTWPlwB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEWTZPrnBkHSKOQSdfwzFjaNjux8C+L0l8WE2/bK91n0nfxBbAFY5oxyFV4JYk5IGIn+KzBDt+S/FdzAj47Ru0c=</c2pa:manifest>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-23T23:24:54.508825</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 300.472441 
+L 510.23622 300.472441 
+L 510.23622 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 8.503937 45.354331 
+L 501.732283 45.354331 
+L 501.732283 65.76378 
+L 8.503937 65.76378 
+z
+" clip-path="url(#pde99212c15)" style="fill: #f5f8fc"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 8.503937 86.173228 
+L 501.732283 86.173228 
+L 501.732283 106.582677 
+L 8.503937 106.582677 
+z
+" clip-path="url(#pde99212c15)" style="fill: #f5f8fc"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 8.503937 126.992126 
+L 501.732283 126.992126 
+L 501.732283 147.401575 
+L 8.503937 147.401575 
+z
+" clip-path="url(#pde99212c15)" style="fill: #f5f8fc"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 8.503937 167.811024 
+L 501.732283 167.811024 
+L 501.732283 188.220472 
+L 8.503937 188.220472 
+z
+" clip-path="url(#pde99212c15)" style="fill: #f5f8fc"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 8.503937 208.629921 
+L 501.732283 208.629921 
+L 501.732283 229.03937 
+L 8.503937 229.03937 
+z
+" clip-path="url(#pde99212c15)" style="fill: #f5f8fc"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 181.417323 41.102362 
+L 181.417323 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 213.165354 41.102362 
+L 213.165354 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 244.913386 41.102362 
+L 244.913386 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 276.661417 41.102362 
+L 276.661417 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 308.409449 41.102362 
+L 308.409449 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 340.15748 41.102362 
+L 340.15748 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 371.905512 41.102362 
+L 371.905512 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 403.653543 41.102362 
+L 403.653543 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 435.401575 41.102362 
+L 435.401575 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 467.149606 41.102362 
+L 467.149606 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 498.897638 41.102362 
+L 498.897638 249.448819 
+" clip-path="url(#pde99212c15)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.4; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 181.417323 49.889764 
+L 211.748031 49.889764 
+L 211.748031 61.228346 
+L 181.417323 61.228346 
+z
+" clip-path="url(#pde99212c15)" style="fill: #0262a9"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 197.291339 70.299213 
+L 275.244094 70.299213 
+L 275.244094 81.637795 
+L 197.291339 81.637795 
+z
+" clip-path="url(#pde99212c15)" style="fill: #2e7d32"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 213.165354 90.708661 
+L 267.307087 90.708661 
+L 267.307087 102.047244 
+L 213.165354 102.047244 
+z
+" clip-path="url(#pde99212c15)" style="fill: #7fb0d9"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 268.724409 90.708661 
+L 306.992126 90.708661 
+L 306.992126 102.047244 
+L 268.724409 102.047244 
+z
+" clip-path="url(#pde99212c15)" style="fill: #0262a9"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 268.724409 111.11811 
+L 322.866142 111.11811 
+L 322.866142 122.456693 
+L 268.724409 122.456693 
+z
+" clip-path="url(#pde99212c15)" style="fill: #c55a11"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 276.661417 131.527559 
+L 322.866142 131.527559 
+L 322.866142 142.866142 
+L 276.661417 142.866142 
+z
+" clip-path="url(#pde99212c15)" style="fill: #0262a9"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 308.409449 151.937008 
+L 338.740157 151.937008 
+L 338.740157 163.275591 
+L 308.409449 163.275591 
+z
+" clip-path="url(#pde99212c15)" style="fill: #0262a9"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 340.15748 151.937008 
+L 465.732283 151.937008 
+L 465.732283 163.275591 
+L 340.15748 163.275591 
+z
+" clip-path="url(#pde99212c15)" style="fill: #0262a9"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 324.283465 172.346457 
+L 346.677165 172.346457 
+L 346.677165 183.685039 
+L 324.283465 183.685039 
+z
+" clip-path="url(#pde99212c15)" style="fill: #0262a9"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 348.094488 172.346457 
+L 481.606299 172.346457 
+L 481.606299 183.685039 
+L 348.094488 183.685039 
+z
+" clip-path="url(#pde99212c15)" style="fill: #0262a9"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 292.535433 192.755906 
+L 370.488189 192.755906 
+L 370.488189 204.094488 
+L 292.535433 204.094488 
+z
+" clip-path="url(#pde99212c15)" style="fill: #2e7d32"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 371.905512 192.755906 
+L 481.606299 192.755906 
+L 481.606299 204.094488 
+L 371.905512 204.094488 
+z
+" clip-path="url(#pde99212c15)" style="fill: #2e7d32"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 451.275591 213.165354 
+L 465.732283 213.165354 
+L 465.732283 224.503937 
+L 451.275591 224.503937 
+z
+" clip-path="url(#pde99212c15)" style="fill: #2e7d32"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 467.149606 233.574803 
+L 497.480315 233.574803 
+L 497.480315 244.913386 
+L 467.149606 244.913386 
+z
+" clip-path="url(#pde99212c15)" style="fill: #2e7d32"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 11.338583 270.992126 
+L 28.346457 270.992126 
+L 28.346457 278.929134 
+L 11.338583 278.929134 
+z
+" clip-path="url(#pde99212c15)" style="fill: #0262a9"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 128.551181 270.992126 
+L 145.559055 270.992126 
+L 145.559055 278.929134 
+L 128.551181 278.929134 
+z
+" clip-path="url(#pde99212c15)" style="fill: #c55a11"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 177.307087 270.992126 
+L 194.314961 270.992126 
+L 194.314961 278.929134 
+L 177.307087 278.929134 
+z
+" clip-path="url(#pde99212c15)" style="fill: #2e7d32"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 276.661417 270.992126 
+L 293.669291 270.992126 
+L 293.669291 278.929134 
+L 276.661417 278.929134 
+z
+" clip-path="url(#pde99212c15)" style="fill: #7fb0d9"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 4.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #ffffff" x="240.944882" y="97.540172" transform="rotate(-0 240.944882 97.540172)">room</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 4.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #ffffff" x="288.566929" y="97.690734" transform="rotate(-0 288.566929 97.690734)">fabric, FW</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 4.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #ffffff" x="324.283465" y="158.744112" transform="rotate(-0 324.283465 158.744112)">pilot</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 4.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #ffffff" x="403.653543" y="158.744112" transform="rotate(-0 403.653543 158.744112)">site by site</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 4.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #ffffff" x="336.188976" y="179.153561" transform="rotate(-0 336.188976 179.153561)">pilot</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 4.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #ffffff" x="332.220472" y="199.679884" transform="rotate(-0 332.220472 199.679884)">DHCP, DNS, AD, LMS</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 4.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #ffffff" x="427.464567" y="199.563009" transform="rotate(-0 427.464567 199.563009)">migration</text>
+   </g>
+   <g id="patch_25">
+    <path d="M 213.165354 71.716535 
+L 217.417323 75.968504 
+L 213.165354 80.220472 
+L 208.913386 75.968504 
+z
+" clip-path="url(#pde99212c15)" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 340.15748 153.354331 
+L 344.409449 157.606299 
+L 340.15748 161.858268 
+L 335.905512 157.606299 
+z
+" clip-path="url(#pde99212c15)" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 467.149606 214.582677 
+L 471.401575 218.834646 
+L 467.149606 223.086614 
+L 462.897638 218.834646 
+z
+" clip-path="url(#pde99212c15)" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 498.897638 234.992126 
+L 503.149606 239.244094 
+L 498.897638 243.496063 
+L 494.645669 239.244094 
+z
+" clip-path="url(#pde99212c15)" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_8">
+    <g id="patch_29">
+     <path d="M 218.159646 72.268662 
+L 246.773318 72.268662 
+L 246.773318 66.062046 
+L 218.159646 66.062046 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 4.5px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="218.834646" y="70.329026" transform="rotate(-0 218.834646 70.329026)">orders placed</text>
+   </g>
+   <g id="text_9">
+    <g id="patch_30">
+     <path d="M 345.151772 153.906458 
+L 393.280678 153.906458 
+L 393.280678 147.699842 
+L 345.151772 147.699842 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 4.5px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="345.826772" y="151.966821" transform="rotate(-0 345.826772 151.966821)">pilot buildings accepted</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_31">
+     <path d="M 430.042893 215.134804 
+L 462.155315 215.134804 
+L 462.155315 208.928188 
+L 430.042893 208.928188 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 4.5px; font-family: 'Liberation Sans'; text-anchor: end; fill: #1a1a1a" x="461.480315" y="213.195168" transform="rotate(-0 461.480315 213.195168)">DR test passed</text>
+   </g>
+   <g id="text_11">
+    <g id="patch_32">
+     <path d="M 455.028971 235.544253 
+L 493.903346 235.544253 
+L 493.903346 229.337637 
+L 455.028971 229.337637 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 4.5px; font-family: 'Liberation Sans'; text-anchor: end; fill: #1a1a1a" x="493.228346" y="233.604617" transform="rotate(-0 493.228346 233.604617)">acceptance signed</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 6.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="14.462624" transform="rotate(-0 11.338583 14.462624)">Deployment plan: weeks from the contract</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="25.670922" transform="rotate(-0 11.338583 25.670922)">Durations are planning values for the tender; each phase ends with the exit criterion of Table 76.</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="197.291339" y="37.865793" transform="rotate(-0 197.291339 37.865793)">1–4</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="229.03937" y="37.866871" transform="rotate(-0 229.03937 37.866871)">5–8</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="260.787402" y="37.866871" transform="rotate(-0 260.787402 37.866871)">9–12</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="292.535433" y="37.866871" transform="rotate(-0 292.535433 37.866871)">13–16</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="324.283465" y="37.866871" transform="rotate(-0 324.283465 37.866871)">17–20</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="356.031496" y="37.889511" transform="rotate(-0 356.031496 37.889511)">21–24</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="387.779528" y="37.866871" transform="rotate(-0 387.779528 37.866871)">25–28</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="419.527559" y="37.866871" transform="rotate(-0 419.527559 37.866871)">29–32</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="451.275591" y="37.866871" transform="rotate(-0 451.275591 37.866871)">33–36</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="483.023622" y="37.866871" transform="rotate(-0 483.023622 37.866871)">37–40</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: end; fill: #595959" x="178.582677" y="37.927605" transform="rotate(-0 178.582677 37.927605)">weeks</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="198.48189" y="259.535084" transform="rotate(-0 198.48189 259.535084)">M1</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="233.007874" y="259.558803" transform="rotate(-0 233.007874 259.558803)">M2</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="267.533858" y="259.536162" transform="rotate(-0 267.533858 259.536162)">M3</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="302.059843" y="259.535084" transform="rotate(-0 302.059843 259.535084)">M4</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="336.585827" y="259.512443" transform="rotate(-0 336.585827 259.512443)">M5</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="371.111811" y="259.536162" transform="rotate(-0 371.111811 259.536162)">M6</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="405.637795" y="259.535084" transform="rotate(-0 405.637795 259.535084)">M7</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="440.16378" y="259.536162" transform="rotate(-0 440.16378 259.536162)">M8</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="474.689764" y="259.536162" transform="rotate(-0 474.689764 259.536162)">M9</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: end; fill: #595959" x="178.582677" y="259.596897" transform="rotate(-0 178.582677 259.596897)">month</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="54.098597" transform="rotate(-0 11.338583 54.098597)">0. Survey</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="61.750406" transform="rotate(-0 11.338583 61.750406)">fibre L4, ISP entries, 5G, rooms</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="75.135421" transform="rotate(-0 11.338583 75.135421)">Orders and lead time</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="81.976933" transform="rotate(-0 11.338583 81.976933)">equipment, 12 ISP lines, IPv4 /24s</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="95.442057" transform="rotate(-0 11.338583 95.442057)">1. Data centres</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="102.386382" transform="rotate(-0 11.338583 102.386382)">DC-1 room works · equipment</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="115.954318" transform="rotate(-0 11.338583 115.954318)">2. WAN and Internet</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="122.79583" transform="rotate(-0 11.338583 122.79583)">ISP circuits, hubs, edges, L4</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="136.35983" transform="rotate(-0 11.338583 136.35983)">3. Site cores</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="143.205279" transform="rotate(-0 11.338583 143.205279)">core pairs, OOB, 5G routers</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="156.207529" transform="rotate(-0 11.338583 156.207529)">4. Buildings</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="163.614728" transform="rotate(-0 11.338583 163.614728)">pilot of each type · then 19 more</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="177.182665" transform="rotate(-0 11.338583 177.182665)">5. Wi-Fi 7</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="184.024177" transform="rotate(-0 11.338583 184.024177)">APs per floor, AC pair, SSIDs</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="197.592114" transform="rotate(-0 11.338583 197.592114)">6. Services</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="204.888235" transform="rotate(-0 11.338583 204.888235)">install · move users</text>
+   </g>
+   <g id="text_51">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="217.89875" transform="rotate(-0 11.338583 217.89875)">DR test</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="224.843075" transform="rotate(-0 11.338583 224.843075)">planned move to one DC and back</text>
+   </g>
+   <g id="text_53">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="11.338583" y="238.411011" transform="rotate(-0 11.338583 238.411011)">7. Handover</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 4.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="245.252523" transform="rotate(-0 11.338583 245.252523)">documents, runbooks, spares</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 4.9px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="34.015748" y="276.227739" transform="rotate(-0 34.015748 276.227739)">Integrator (Huawei partner)</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 4.9px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="151.228346" y="276.647302" transform="rotate(-0 151.228346 276.647302)">ISPs</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 4.9px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="199.984252" y="276.227739" transform="rotate(-0 199.984252 276.227739)">University IT and NOC</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 4.9px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="299.338583" y="276.227739" transform="rotate(-0 299.338583 276.227739)">DC-1 room works (building contractor)</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 4.9px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="11.338583" y="290.400968" transform="rotate(-0 11.338583 290.400968)">Team SYNergy acts as the design authority: it reviews the exit criterion of every phase and keeps the documents and NCE templates up to date.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pde99212c15">
+   <rect x="0" y="0" width="510.23622" height="300.472441"/>
+  </clipPath>
+ </defs>
+</svg>

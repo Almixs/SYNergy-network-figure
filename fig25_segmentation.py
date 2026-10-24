@@ -57,7 +57,7 @@ d.tag(97, 40.5, "one 802.1Q subinterface\nand one /29 per VRF", color="#C00000",
 d.note(73.5, 74, "One security zone per VRF,\ndefault deny; every denied\nsession is logged in HiSec\nInsight.\n\n"
        "Zone priorities:\nMGMT 95 · DC 90 · STAFF 82\nVOICE 75 · STUDENT 60\nPRINT 55 · DMZ 50 · CCTV 48\n"
        "IOT 45 · GUEST 40 · Internet 5\n\n"
-       "Rules P01–P11 (policy matrix):\none rule per server group and\nport set; IPS on every permit;\n"
+       "Rules P01–P12 (policy matrix):\none rule per server group and\nport set; IPS on every permit;\n"
        "AV, URL filter and SAC towards\nthe Internet.\n\n"
        "The address plan has no\noverlaps, so the FW needs\none routing table only.", size=4.5, color=INK)
 
@@ -76,6 +76,7 @@ d.node("dmz", 136, 63, "web_server", size=7)
 d.text(142, 55.5, "From the Internet:", size=4.5, weight="bold", bg=False)
 for i, (ip, what) in enumerate([(".10", "web site proxy · HTTPS"), (".11", "LMS proxy · HTTPS"),
                                 (".12", "Jitsi Meet web · HTTPS"), (".14", "TURN relay · 3478, 5349"),
+                                (".15", "eduroam proxy · RADIUS, URAN"),
                                 ("anycast /24", "authoritative DNS")]):
     yy = 59.5 + i * 3.6
     d.text(142, yy, ip, size=4.4, color=INK, bg=False)
@@ -85,7 +86,7 @@ d.line([(120, 63), (126, 63), (126, 63), (132.5, 63)], "fw")
 d.zone(128, 93, 49, 51, "VRF DC · 10.200.0.0/16", "server leafs · reached only through the FW", kind="room",
        title_size=5.8)
 d.node("dc", 136, 112, "general_server", size=7, stack=2)
-for i, (ip, what) in enumerate([(".10.x", "DHCP, DNS, NTP, NCE + RADIUS,"), ("", "jump hosts, Samba AD, EJBCA, SIEM"),
+for i, (ip, what) in enumerate([(".10.x", "DHCP, DNS, NTP, NCE, eduroam IdP,"), ("", "jump hosts, Samba AD, EJBCA, SIEM"),
                                 (".20.x", "Moodle, PostgreSQL"), (".30.x", "Jitsi bridges, Jibri"),
                                 (".40.x", "Asterisk, Kamailio SBC"), (".50.x", "PaperCut, VMS, ACS / BMS")]):
     yy = 104 + i * 3.8
