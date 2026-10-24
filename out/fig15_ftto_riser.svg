@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="754.015748pt" height="476.220472pt" viewBox="0 0 754.015748 476.220472" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:c2pa="http://c2pa.org/manifest">
+ <metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiOWMyZDcwMC1iNzE2LTQxNjMtOGIwZC02ODdlNGRmZWUyYWUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDQ/ZqSswcxhPsU8P9EMT4cAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1MzQ1NTJkNC1mOTI3LTRkNWUtOTI4My0zODI3MTk0NDA4NjFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoN9e/gCANc/46JdVupJYKSwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggBsWCiXfcQsslGI1F7FMjgwzSf3MLDcaj7Kcle5GOaMGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJf5DypWTQvIpI4hZopWwvMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIHqKqtAebGwnMCIFabsLrQ0TaABYBDZRqDP90p9Wm8GQZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQGNZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmI5YzJkNzAwLWI3MTYtNDE2My04YjBkLTY4N2U0ZGZlZTJhZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmM5MGQ1NjZhLWRjN2EtNDVhNy1iYjliLWM1NDIxNmJjNDI4ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAGxYKJd9xCyyUYjUXsUyODDNJ/cwsNxqPspyV7kY5owaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggUYaabj0vsXLm9xds3CP2eitMxCwdvS6yvDI0SYNsIz+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggC5Vhj2CWq6k0MHodN3yHgyyXsTJvgwSQjbxEk+sTS0J0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJlLF2FQCnNN3F5jtLxiYJXlaQHUK/k0wwM4xJcnUMgv6v02KQm/TKmMK/MCGX+shUT0bQztsWX0EbvP5RV2X5c=</c2pa:manifest>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-24T09:11:08.706459</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 476.220472 
+L 754.015748 476.220472 
+L 754.015748 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 1.700787 1.700787 
+L 752.314961 1.700787 
+L 752.314961 474.519685 
+L 1.700787 474.519685 
+L 1.700787 1.700787 
+z
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1a1a1a; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 11.338583 80.787402 
+L 527.244094 80.787402 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 3.6,1.8; stroke-dashoffset: 0; stroke: #7f8fa6; stroke-width: 0.6"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 11.338583 144.566929 
+L 527.244094 144.566929 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 3.6,1.8; stroke-dashoffset: 0; stroke: #7f8fa6; stroke-width: 0.6"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 11.338583 208.346457 
+L 527.244094 208.346457 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 3.6,1.8; stroke-dashoffset: 0; stroke: #7f8fa6; stroke-width: 0.6"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 11.338583 277.795276 
+L 527.244094 277.795276 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 3.6,1.8; stroke-dashoffset: 0; stroke: #7f8fa6; stroke-width: 0.6"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 121.889764 19.84252 
+L 138.897638 19.84252 
+L 138.897638 300.472441 
+L 121.889764 300.472441 
+L 121.889764 19.84252 
+z
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 445.03937 19.84252 
+L 462.047244 19.84252 
+L 462.047244 300.472441 
+L 445.03937 300.472441 
+L 445.03937 19.84252 
+z
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 1.8,1.2; stroke-dashoffset: 0; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 17.007874 300.472441 
+L 232.440945 300.472441 
+L 232.440945 402.519685 
+L 17.007874 402.519685 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fafafa; stroke: #1a1a1a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 311.811024 300.472441 
+L 527.244094 300.472441 
+L 527.244094 402.519685 
+L 311.811024 402.519685 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fafafa; stroke: #1a1a1a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 130.393701 437.952756 
+L 164.409449 437.952756 
+L 164.409449 447.590551 
+L 130.393701 447.590551 
+z
+" clip-path="url(#p02321908a4)" style="fill: #e8edf4; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 164.409449 437.952756 
+L 257.952756 437.952756 
+L 257.952756 447.590551 
+L 164.409449 447.590551 
+z
+" clip-path="url(#p02321908a4)" style="fill: #e8edf4; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 257.952756 437.952756 
+L 351.496063 437.952756 
+L 351.496063 447.590551 
+L 257.952756 447.590551 
+z
+" clip-path="url(#p02321908a4)" style="fill: #e8edf4; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 351.496063 437.952756 
+L 445.03937 437.952756 
+L 445.03937 447.590551 
+L 351.496063 447.590551 
+z
+" clip-path="url(#p02321908a4)" style="fill: #e8edf4; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 130.393701 447.590551 
+L 164.409449 447.590551 
+L 164.409449 457.228346 
+L 130.393701 457.228346 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 164.409449 447.590551 
+L 257.952756 447.590551 
+L 257.952756 457.228346 
+L 164.409449 457.228346 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 257.952756 447.590551 
+L 351.496063 447.590551 
+L 351.496063 457.228346 
+L 257.952756 457.228346 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 351.496063 447.590551 
+L 445.03937 447.590551 
+L 445.03937 457.228346 
+L 351.496063 457.228346 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 130.393701 457.228346 
+L 164.409449 457.228346 
+L 164.409449 466.866142 
+L 130.393701 466.866142 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 164.409449 457.228346 
+L 257.952756 457.228346 
+L 257.952756 466.866142 
+L 164.409449 466.866142 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 257.952756 457.228346 
+L 351.496063 457.228346 
+L 351.496063 466.866142 
+L 257.952756 466.866142 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 351.496063 457.228346 
+L 445.03937 457.228346 
+L 445.03937 466.866142 
+L 351.496063 466.866142 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 538.582677 11.338583 
+L 745.511811 11.338583 
+L 745.511811 82.204724 
+L 538.582677 82.204724 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 538.582677 87.874016 
+L 745.511811 87.874016 
+L 745.511811 218.267717 
+L 538.582677 218.267717 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 538.582677 333.354331 
+L 564.094488 333.354331 
+L 564.094488 342.992126 
+L 538.582677 342.992126 
+z
+" clip-path="url(#p02321908a4)" style="fill: #e8edf4; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 564.094488 333.354331 
+L 612.283465 333.354331 
+L 612.283465 342.992126 
+L 564.094488 342.992126 
+z
+" clip-path="url(#p02321908a4)" style="fill: #e8edf4; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 612.283465 333.354331 
+L 745.511811 333.354331 
+L 745.511811 342.992126 
+L 612.283465 342.992126 
+z
+" clip-path="url(#p02321908a4)" style="fill: #e8edf4; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 538.582677 342.992126 
+L 564.094488 342.992126 
+L 564.094488 352.629921 
+L 538.582677 352.629921 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 564.094488 342.992126 
+L 612.283465 342.992126 
+L 612.283465 352.629921 
+L 564.094488 352.629921 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 612.283465 342.992126 
+L 745.511811 342.992126 
+L 745.511811 352.629921 
+L 612.283465 352.629921 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 538.582677 352.629921 
+L 564.094488 352.629921 
+L 564.094488 362.267717 
+L 538.582677 362.267717 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 564.094488 352.629921 
+L 612.283465 352.629921 
+L 612.283465 362.267717 
+L 564.094488 362.267717 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 612.283465 352.629921 
+L 745.511811 352.629921 
+L 745.511811 362.267717 
+L 612.283465 362.267717 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 538.582677 362.267717 
+L 564.094488 362.267717 
+L 564.094488 371.905512 
+L 538.582677 371.905512 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 564.094488 362.267717 
+L 612.283465 362.267717 
+L 612.283465 371.905512 
+L 564.094488 371.905512 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 612.283465 362.267717 
+L 745.511811 362.267717 
+L 745.511811 371.905512 
+L 612.283465 371.905512 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 538.582677 382.677165 
+L 595.275591 382.677165 
+L 595.275591 392.88189 
+L 538.582677 392.88189 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f2f2; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 595.275591 382.677165 
+L 745.511811 382.677165 
+L 745.511811 392.88189 
+L 595.275591 392.88189 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 538.582677 392.88189 
+L 595.275591 392.88189 
+L 595.275591 411.307087 
+L 538.582677 411.307087 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f2f2; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 595.275591 392.88189 
+L 745.511811 392.88189 
+L 745.511811 411.307087 
+L 595.275591 411.307087 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 538.582677 411.307087 
+L 595.275591 411.307087 
+L 595.275591 421.511811 
+L 538.582677 421.511811 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f2f2; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 595.275591 411.307087 
+L 745.511811 411.307087 
+L 745.511811 421.511811 
+L 595.275591 421.511811 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 538.582677 421.511811 
+L 595.275591 421.511811 
+L 595.275591 431.716535 
+L 538.582677 431.716535 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f2f2; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 595.275591 421.511811 
+L 745.511811 421.511811 
+L 745.511811 431.716535 
+L 595.275591 431.716535 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 538.582677 431.716535 
+L 595.275591 431.716535 
+L 595.275591 441.92126 
+L 538.582677 441.92126 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f2f2; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 595.275591 431.716535 
+L 745.511811 431.716535 
+L 745.511811 441.92126 
+L 595.275591 441.92126 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 538.582677 441.92126 
+L 595.275591 441.92126 
+L 595.275591 452.125984 
+L 538.582677 452.125984 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f2f2; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 595.275591 441.92126 
+L 745.511811 441.92126 
+L 745.511811 452.125984 
+L 595.275591 452.125984 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 538.582677 452.125984 
+L 595.275591 452.125984 
+L 595.275591 462.330709 
+L 538.582677 462.330709 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f2f2; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 595.275591 452.125984 
+L 745.511811 452.125984 
+L 745.511811 462.330709 
+L 595.275591 462.330709 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 209.76378 367.937008 
+L 209.76378 409.606299 
+L 453.543307 409.606299 
+L 453.543307 396.850394 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 1.4,1.05; stroke-dashoffset: 0; stroke: #1a1a1a; stroke-width: 0.7"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 334.488189 367.937008 
+L 334.488189 415.275591 
+L 73.700787 415.275591 
+L 73.700787 396.850394 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 1.4,1.05; stroke-dashoffset: 0; stroke: #1a1a1a; stroke-width: 0.7"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 102.047244 385.511811 
+L 442.204724 385.511811 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 90.708661 328.110236 
+L 99.212598 328.110236 
+L 99.212598 327.11811 
+L 113.385827 327.11811 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 90.708661 328.110236 
+L 99.212598 328.110236 
+L 99.212598 344.125984 
+L 113.385827 344.125984 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 90.708661 328.110236 
+L 99.212598 328.110236 
+L 99.212598 361.133858 
+L 113.385827 361.133858 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 113.385827 361.133858 
+L 107.716535 361.133858 
+L 107.716535 386.929134 
+L 102.047244 386.929134 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 65.19685 396.850394 
+L 65.19685 411.023622 
+L 76.535433 411.023622 
+L 76.535433 425.19685 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 453.543307 328.110236 
+L 445.03937 328.110236 
+L 445.03937 327.11811 
+L 430.866142 327.11811 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #c00000; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 453.543307 328.110236 
+L 445.03937 328.110236 
+L 445.03937 344.125984 
+L 430.866142 344.125984 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #c00000; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 453.543307 328.110236 
+L 445.03937 328.110236 
+L 445.03937 361.133858 
+L 430.866142 361.133858 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #c00000; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 430.866142 361.133858 
+L 436.535433 361.133858 
+L 436.535433 386.929134 
+L 442.204724 386.929134 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 479.055118 396.850394 
+L 479.055118 411.023622 
+L 484.724409 411.023622 
+L 484.724409 425.19685 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 119.055118 52.724409 
+L 126.141732 52.724409 
+L 126.141732 300.472441 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 464.88189 49.322835 
+L 457.795276 49.322835 
+L 457.795276 300.472441 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 4,2; stroke-dashoffset: 0; stroke: #c00000"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 119.055118 116.503937 
+L 128.692913 116.503937 
+L 128.692913 300.472441 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 464.88189 113.102362 
+L 455.244094 113.102362 
+L 455.244094 300.472441 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 4,2; stroke-dashoffset: 0; stroke: #c00000"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 119.055118 180.283465 
+L 131.244094 180.283465 
+L 131.244094 300.472441 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 464.88189 176.88189 
+L 452.692913 176.88189 
+L 452.692913 300.472441 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 4,2; stroke-dashoffset: 0; stroke: #c00000"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 119.055118 244.062992 
+L 133.795276 244.062992 
+L 133.795276 300.472441 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 464.88189 240.661417 
+L 450.141732 240.661417 
+L 450.141732 300.472441 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 4,2; stroke-dashoffset: 0; stroke: #c00000"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 119.055118 43.937008 
+L 232.440945 43.937008 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 351.496063 55.275591 
+L 464.88189 55.275591 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 4.8,2.4; stroke-dashoffset: 0; stroke: #c00000; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 119.055118 107.716535 
+L 232.440945 107.716535 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 351.496063 119.055118 
+L 464.88189 119.055118 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 4.8,2.4; stroke-dashoffset: 0; stroke: #c00000; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 119.055118 171.496063 
+L 232.440945 171.496063 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 351.496063 182.834646 
+L 464.88189 182.834646 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 4.8,2.4; stroke-dashoffset: 0; stroke: #c00000; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 119.055118 235.275591 
+L 232.440945 235.275591 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 351.496063 246.614173 
+L 464.88189 246.614173 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 4.8,2.4; stroke-dashoffset: 0; stroke: #c00000; stroke-width: 1.2"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 93.543307 44.787402 
+L 119.055118 44.787402 
+L 119.055118 57.259843 
+L 93.543307 57.259843 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 464.88189 44.787402 
+L 490.393701 44.787402 
+L 490.393701 57.259843 
+L 464.88189 57.259843 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #c00000; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 232.440945 36.850394 
+L 351.496063 36.850394 
+L 351.496063 65.19685 
+L 232.440945 65.19685 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 93.543307 108.566929 
+L 119.055118 108.566929 
+L 119.055118 121.03937 
+L 93.543307 121.03937 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 464.88189 108.566929 
+L 490.393701 108.566929 
+L 490.393701 121.03937 
+L 464.88189 121.03937 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #c00000; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 232.440945 100.629921 
+L 351.496063 100.629921 
+L 351.496063 128.976378 
+L 232.440945 128.976378 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 93.543307 172.346457 
+L 119.055118 172.346457 
+L 119.055118 184.818898 
+L 93.543307 184.818898 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 464.88189 172.346457 
+L 490.393701 172.346457 
+L 490.393701 184.818898 
+L 464.88189 184.818898 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #c00000; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_55">
+    <path d="M 232.440945 164.409449 
+L 351.496063 164.409449 
+L 351.496063 192.755906 
+L 232.440945 192.755906 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_56">
+    <path d="M 93.543307 236.125984 
+L 119.055118 236.125984 
+L 119.055118 248.598425 
+L 93.543307 248.598425 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_57">
+    <path d="M 464.88189 236.125984 
+L 490.393701 236.125984 
+L 490.393701 248.598425 
+L 464.88189 248.598425 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #c00000; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_58">
+    <path d="M 232.440945 228.188976 
+L 351.496063 228.188976 
+L 351.496063 256.535433 
+L 232.440945 256.535433 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_59">
+    <path d="M 28.346457 317.480315 
+L 90.708661 317.480315 
+L 90.708661 338.740157 
+L 28.346457 338.740157 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_60">
+    <path d="M 113.385827 320.314961 
+L 221.102362 320.314961 
+L 221.102362 333.92126 
+L 113.385827 333.92126 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_61">
+    <path d="M 113.385827 337.322835 
+L 221.102362 337.322835 
+L 221.102362 350.929134 
+L 113.385827 350.929134 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_62">
+    <path d="M 113.385827 354.330709 
+L 221.102362 354.330709 
+L 221.102362 367.937008 
+L 113.385827 367.937008 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_63">
+    <path d="M 28.346457 377.007874 
+L 102.047244 377.007874 
+L 102.047244 396.850394 
+L 28.346457 396.850394 
+z
+" clip-path="url(#p02321908a4)" style="fill: #e8edf4; stroke: #1f3864; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_64">
+    <path d="M 39.685039 425.19685 
+L 113.385827 425.19685 
+L 113.385827 447.874016 
+L 39.685039 447.874016 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_65">
+    <path d="M 453.543307 317.480315 
+L 515.905512 317.480315 
+L 515.905512 338.740157 
+L 453.543307 338.740157 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #c00000; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_66">
+    <path d="M 323.149606 320.314961 
+L 430.866142 320.314961 
+L 430.866142 333.92126 
+L 323.149606 333.92126 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_67">
+    <path d="M 323.149606 337.322835 
+L 430.866142 337.322835 
+L 430.866142 350.929134 
+L 323.149606 350.929134 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_68">
+    <path d="M 323.149606 354.330709 
+L 430.866142 354.330709 
+L 430.866142 367.937008 
+L 323.149606 367.937008 
+z
+" clip-path="url(#p02321908a4)" style="fill: #f2f6fb; stroke: #1f3864; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_69">
+    <path d="M 442.204724 377.007874 
+L 515.905512 377.007874 
+L 515.905512 396.850394 
+L 442.204724 396.850394 
+z
+" clip-path="url(#p02321908a4)" style="fill: #e8edf4; stroke: #1f3864; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_70">
+    <path d="M 447.874016 425.19685 
+L 521.574803 425.19685 
+L 521.574803 447.874016 
+L 447.874016 447.874016 
+z
+" clip-path="url(#p02321908a4)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 542.834646 30.614173 
+L 568.346457 30.614173 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1f3864; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 542.834646 42.519685 
+L 568.346457 42.519685 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke-dasharray: 4.8,2.4; stroke-dashoffset: 0; stroke: #c00000; stroke-width: 1.6"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 542.834646 54.425197 
+L 568.346457 54.425197 
+" clip-path="url(#p02321908a4)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_71">
+    <path d="M 545.669291 62.07874 
+L 565.511811 62.07874 
+L 565.511811 70.582677 
+L 545.669291 70.582677 
+z
+" clip-path="url(#p02321908a4)" style="fill: #fbe5d6; stroke: #1f3864; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="106.299213" y="53.020091" transform="rotate(-0 106.299213 53.020091)">ODF-A</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #c00000" x="477.637795" y="53.020091" transform="rotate(-0 477.637795 53.020091)">ODF-B</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="291.968504" y="48.622345" transform="rotate(-0 291.968504 48.622345)">28 × RU · rooms 1–26</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="291.968504" y="58.067101" transform="rotate(-0 291.968504 58.067101)">RU 01–28 = ODF ports 01–28</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="106.299213" y="116.799618" transform="rotate(-0 106.299213 116.799618)">ODF-A</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #c00000" x="477.637795" y="116.799618" transform="rotate(-0 477.637795 116.799618)">ODF-B</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="291.968504" y="112.401873" transform="rotate(-0 291.968504 112.401873)">28 × RU · rooms 1–26</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="291.968504" y="121.846628" transform="rotate(-0 291.968504 121.846628)">RU 01–28 = ODF ports 01–28</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="106.299213" y="180.579146" transform="rotate(-0 106.299213 180.579146)">ODF-A</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #c00000" x="477.637795" y="180.579146" transform="rotate(-0 477.637795 180.579146)">ODF-B</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="291.968504" y="176.1814" transform="rotate(-0 291.968504 176.1814)">28 × RU · rooms 1–26</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="291.968504" y="185.626156" transform="rotate(-0 291.968504 185.626156)">RU 01–28 = ODF ports 01–28</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="106.299213" y="244.358673" transform="rotate(-0 106.299213 244.358673)">ODF-A</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #c00000" x="477.637795" y="244.358673" transform="rotate(-0 477.637795 244.358673)">ODF-B</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="291.968504" y="239.960928" transform="rotate(-0 291.968504 239.960928)">28 × RU · rooms 1–26</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="291.968504" y="249.405684" transform="rotate(-0 291.968504 249.405684)">RU 01–28 = ODF ports 01–28</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1f3864" x="59.527559" y="326.915706" transform="rotate(-0 59.527559 326.915706)">ODF-R1</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="59.527559" y="334.415554" transform="rotate(-0 59.527559 334.415554)">riser panel 4 × 72f LC</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="167.244094" y="329.041798" transform="rotate(-0 167.244094 329.041798)">S1-A1-FT1-1 · S6730-H48X6C-V2</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="167.244094" y="346.049672" transform="rotate(-0 167.244094 346.049672)">S1-A1-FT1-2 · S6730-H48X6C-V2</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="167.244094" y="363.057546" transform="rotate(-0 167.244094 363.057546)">S1-A1-FT1-3 · S6730-H48X6C-V2</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="65.19685" y="385.876336" transform="rotate(-0 65.19685 385.876336)">S1-A1-AGG-A</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 5.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="65.19685" y="393.572391" transform="rotate(-0 65.19685 393.572391)">S6750-H48Y8C</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="76.535433" y="434.632242" transform="rotate(-0 76.535433 434.632242)">S1-CORE-A</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="76.535433" y="442.92946" transform="rotate(-0 76.535433 442.92946)">site core room A · 2 × 25GE</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #c00000" x="484.724409" y="326.915706" transform="rotate(-0 484.724409 326.915706)">ODF-R2</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="484.724409" y="334.415554" transform="rotate(-0 484.724409 334.415554)">riser panel 4 × 72f LC</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="377.007874" y="329.041798" transform="rotate(-0 377.007874 329.041798)">S1-A1-FT2-1 · S6730-H48X6C-V2</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="377.007874" y="346.049672" transform="rotate(-0 377.007874 346.049672)">S1-A1-FT2-2 · S6730-H48X6C-V2</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="377.007874" y="363.057546" transform="rotate(-0 377.007874 363.057546)">S1-A1-FT2-3 · S6730-H48X6C-V2</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="479.055118" y="385.876336" transform="rotate(-0 479.055118 385.876336)">S1-A1-AGG-B</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 5.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="479.055118" y="393.572391" transform="rotate(-0 479.055118 393.572391)">S6750-H48Y8C</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="484.724409" y="434.632242" transform="rotate(-0 484.724409 434.632242)">S1-CORE-B</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="484.724409" y="442.92946" transform="rotate(-0 484.724409 442.92946)">site core room B · 2 × 25GE</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 4.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="555.590551" y="67.845271" transform="rotate(-0 555.590551 67.845271)">ODF</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="130.393701" y="14.606597" transform="rotate(-0 130.393701 14.606597)">RISER A</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="453.543307" y="14.606597" transform="rotate(-0 453.543307 14.606597)">RISER B</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="14.173228" y="30.755988" transform="rotate(-0 14.173228 30.755988)">FLOOR 4</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="14.173228" y="41.681508" transform="rotate(-0 14.173228 41.681508)">FFL +9.0 m</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 5.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1f3864" x="178.582677" y="39.947587" transform="rotate(-0 178.582677 39.947587)">28 × duplex OS2 (CT-A)</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 5.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #c00000" x="402.519685" y="64.32554" transform="rotate(-0 402.519685 64.32554)">28 × duplex OS2 (CT-B)</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="14.173228" y="94.530594" transform="rotate(-0 14.173228 94.530594)">FLOOR 3</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="14.173228" y="105.461036" transform="rotate(-0 14.173228 105.461036)">FFL +6.0 m</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 5.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1f3864" x="178.582677" y="103.727115" transform="rotate(-0 178.582677 103.727115)">28 × duplex OS2 (CT-A)</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 5.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #c00000" x="402.519685" y="128.105068" transform="rotate(-0 402.519685 128.105068)">28 × duplex OS2 (CT-B)</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="14.173228" y="158.315043" transform="rotate(-0 14.173228 158.315043)">FLOOR 2</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="14.173228" y="169.240563" transform="rotate(-0 14.173228 169.240563)">FFL +3.0 m</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 5.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1f3864" x="178.582677" y="167.506642" transform="rotate(-0 178.582677 167.506642)">28 × duplex OS2 (CT-A)</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 5.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #c00000" x="402.519685" y="191.884595" transform="rotate(-0 402.519685 191.884595)">28 × duplex OS2 (CT-B)</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 5.3px; font-family: 'Liberation Sans'; fill: #1f3864" transform="translate(141.732283 198.895106)">3 × 72f OS2 G.657.A2,</text>
+    <text style="font-size: 5.3px; font-family: 'Liberation Sans'; fill: #1f3864" transform="translate(141.732283 204.407262)">one per floor 2–4</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 5.3px; font-family: 'Liberation Sans'; fill: #c00000" transform="translate(388.436224 198.895106)">3 × 72f OS2 G.657.A2,</text>
+    <text style="font-size: 5.3px; font-family: 'Liberation Sans'; fill: #c00000" transform="translate(402.135068 204.407262)">one per floor 2–4</text>
+   </g>
+   <g id="text_52">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="14.173228" y="222.094571" transform="rotate(-0 14.173228 222.094571)">FLOOR 1</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="14.173228" y="233.020091" transform="rotate(-0 14.173228 233.020091)">FFL +0.0 m</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 5.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1f3864" x="178.582677" y="231.28617" transform="rotate(-0 178.582677 231.28617)">28 × duplex OS2 (CT-A)</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 5.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #c00000" x="402.519685" y="255.664123" transform="rotate(-0 402.519685 255.664123)">28 × duplex OS2 (CT-B)</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 5.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="291.968504" y="267.260311" transform="rotate(-0 291.968504 267.260311)">floor 1 boxes patch straight into ODF-R1 / ODF-R2</text>
+   </g>
+   <g id="text_57">
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="21.259843" y="310.175964" transform="rotate(-0 21.259843 310.175964)">ELV ROOM 1 · 42U rack, UPS 4 h, A/C N+1</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; fill: #595959" transform="translate(142.671926 374.359635)">3 × 10GE to the local AGG</text>
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; fill: #595959" transform="translate(172.879051 379.459038)">(10GE1/0/47)</text>
+   </g>
+   <g id="text_59">
+    <text style="font-weight: 700; font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="316.062992" y="310.175964" transform="rotate(-0 316.062992 310.175964)">ELV ROOM 2 · 42U rack, UPS 4 h, A/C N+1</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; fill: #595959" transform="translate(340.15748 374.359635)">3 × 10GE to the local AGG</text>
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; fill: #595959" transform="translate(340.15748 379.459038)">(10GE1/0/47)</text>
+   </g>
+   <g id="text_61">
+    <g id="patch_72">
+     <path d="M 222.775469 384.700348 
+L 321.4765 384.700348 
+L 321.4765 377.252408 
+L 222.775469 377.252408 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 5.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1f3864" x="272.125984" y="382.372784" transform="rotate(-0 272.125984 382.372784)">M-LAG peer-link 2 × 100GE (both risers)</text>
+   </g>
+   <g id="text_62">
+    <g id="patch_73">
+     <path d="M 219.254578 409.790769 
+L 324.997391 409.790769 
+L 324.997391 402.618679 
+L 219.254578 402.618679 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="272.125984" y="407.550631" transform="rotate(-0 272.125984 407.550631)">3 × 10GE: FT1-1…3 → AGG-B (10GE1/0/48)</text>
+   </g>
+   <g id="text_63">
+    <g id="patch_74">
+     <path d="M 219.397984 423.397069 
+L 324.853984 423.397069 
+L 324.853984 416.224979 
+L 219.397984 416.224979 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #595959" x="272.125984" y="421.15693" transform="rotate(-0 272.125984 421.15693)">3 × 10GE: FT2-1…3 → AGG-A (10GE1/0/48)</text>
+   </g>
+   <g id="text_64">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="130.393701" y="432.365985" transform="rotate(-0 130.393701 432.365985)">Central ports · RU k of floor f → switch s = ceil(k / 10), port 10GE1/0/(10(f−1) + k − 10(s−1))</text>
+   </g>
+   <g id="text_65">
+    <text style="font-weight: 700; font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="211.181102" y="444.116341" transform="rotate(-0 211.181102 444.116341)">FT-1 (RU 01–10)</text>
+   </g>
+   <g id="text_66">
+    <text style="font-weight: 700; font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="304.724409" y="444.116341" transform="rotate(-0 304.724409 444.116341)">FT-2 (RU 11–20)</text>
+   </g>
+   <g id="text_67">
+    <text style="font-weight: 700; font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="398.267717" y="444.116341" transform="rotate(-0 398.267717 444.116341)">FT-3 (RU 21–28)</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="147.401575" y="454.198168" transform="rotate(-0 147.401575 454.198168)">F1–F4</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="211.181102" y="453.960918" transform="rotate(-0 211.181102 453.960918)">10GE1/0/1–10, 11–20, 21–30, 31–40</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="304.724409" y="453.960918" transform="rotate(-0 304.724409 453.960918)">10GE1/0/1–10, 11–20, 21–30, 31–40</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="398.267717" y="453.960918" transform="rotate(-0 398.267717 453.960918)">10GE1/0/1–8, 11–18, 21–28, 31–38</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="147.401575" y="463.905838" transform="rotate(-0 147.401575 463.905838)">used</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="211.181102" y="463.391932" transform="rotate(-0 211.181102 463.391932)">40 RU + 2 up = 42 / 48</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="304.724409" y="463.391932" transform="rotate(-0 304.724409 463.391932)">40 RU + 2 up = 42 / 48</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="398.267717" y="463.391932" transform="rotate(-0 398.267717 463.391932)">32 RU + 2 up = 34 / 48</text>
+   </g>
+   <g id="text_76">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="542.834646" y="20.349661" transform="rotate(-0 542.834646 20.349661)">Legend</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="575.433071" y="32.344658" transform="rotate(-0 575.433071 32.344658)">route A: CT-A, riser A, ELV room 1</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="575.433071" y="44.250169" transform="rotate(-0 575.433071 44.250169)">route B: CT-B, riser B, ELV room 2</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="575.433071" y="56.498244" transform="rotate(-0 575.433071 56.498244)">10GE / 25GE / 100GE links</text>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="575.433071" y="67.830552" transform="rotate(-0 575.433071 67.830552)">floor box or riser panel (ODF)</text>
+   </g>
+   <g id="text_81">
+    <text style="font-weight: 700; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="542.834646" y="97.414094" transform="rotate(-0 542.834646 97.414094)">Notes</text>
+   </g>
+   <g id="text_82">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="542.834646" y="108.092545" transform="rotate(-0 542.834646 108.092545)">1.</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="107.563123" transform="rotate(-0 552.755906 107.563123)">Schematic, not to scale: two risers by the lift cores (A</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="115.749092" transform="rotate(-0 552.755906 115.749092)">between blocks E–F, B between F–G).</text>
+   </g>
+   <g id="text_85">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="542.834646" y="126.194333" transform="rotate(-0 542.834646 126.194333)">2.</text>
+   </g>
+   <g id="text_86">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="125.632942" transform="rotate(-0 552.755906 125.632942)">Every floor: ODF-A and ODF-B with 28 duplex drops each (one</text>
+   </g>
+   <g id="text_87">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="133.817457" transform="rotate(-0 552.755906 133.817457)">per RU); one 72-fibre OS2 cable per floor and riser runs down</text>
+   </g>
+   <g id="text_88">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="142.001973" transform="rotate(-0 552.755906 142.001973)">to the riser panel ODF-R1 or ODF-R2 in its ELV room.</text>
+   </g>
+   <g id="text_89">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="542.834646" y="152.418151" transform="rotate(-0 542.834646 152.418151)">3.</text>
+   </g>
+   <g id="text_90">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="151.888729" transform="rotate(-0 552.755906 151.888729)">ELV room 1 (riser A) and ELV room 2 (riser B) are on floor 1,</text>
+   </g>
+   <g id="text_91">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="160.071791" transform="rotate(-0 552.755906 160.071791)">each with its own UPS, cooling and fire compartment; either</text>
+   </g>
+   <g id="text_92">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="168.256307" transform="rotate(-0 552.755906 168.256307)">room carries the whole building alone.</text>
+   </g>
+   <g id="text_93">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="542.834646" y="178.671032" transform="rotate(-0 542.834646 178.671032)">4.</text>
+   </g>
+   <g id="text_94">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="178.14161" transform="rotate(-0 552.755906 178.14161)">Each FTTO switch: 2 × 10GE uplinks, one to each aggregation</text>
+   </g>
+   <g id="text_95">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="186.326125" transform="rotate(-0 552.755906 186.326125)">switch (Eth-Trunk to the M-LAG pair), 10GE1/0/47–48.</text>
+   </g>
+   <g id="text_96">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="542.834646" y="196.710335" transform="rotate(-0 542.834646 196.710335)">5.</text>
+   </g>
+   <g id="text_97">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="196.211428" transform="rotate(-0 552.755906 196.211428)">Riser cables: 72 fibres for 28 duplex drops leave 16 spare</text>
+   </g>
+   <g id="text_98">
+    <text style="font-size: 6.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="552.755906" y="204.395944" transform="rotate(-0 552.755906 204.395944)">fibres per floor and riser.</text>
+   </g>
+   <g id="text_99">
+    <text style="font-weight: 700; font-size: 5.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="538.582677" y="329.758086" transform="rotate(-0 538.582677 329.758086)">Revisions</text>
+   </g>
+   <g id="text_100">
+    <text style="font-weight: 700; font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="551.338583" y="339.936353" transform="rotate(-0 551.338583 339.936353)">Rev.</text>
+   </g>
+   <g id="text_101">
+    <text style="font-weight: 700; font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="588.188976" y="339.936353" transform="rotate(-0 588.188976 339.936353)">Date</text>
+   </g>
+   <g id="text_102">
+    <text style="font-weight: 700; font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="615.11811" y="339.517916" transform="rotate(-0 615.11811 339.517916)">Description</text>
+   </g>
+   <g id="text_103">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="551.338583" y="349.599742" transform="rotate(-0 551.338583 349.599742)">A</text>
+   </g>
+   <g id="text_104">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="588.188976" y="349.600961" transform="rotate(-0 588.188976 349.600961)">21.10.2026</text>
+   </g>
+   <g id="text_105">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="615.11811" y="349.155711" transform="rotate(-0 615.11811 349.155711)">first issue: 29 RUs per floor, switch 3: 36 ports</text>
+   </g>
+   <g id="text_106">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="551.338583" y="359.237538" transform="rotate(-0 551.338583 359.237538)">B</text>
+   </g>
+   <g id="text_107">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="588.188976" y="359.238756" transform="rotate(-0 588.188976 359.238756)">22.10.2026</text>
+   </g>
+   <g id="text_108">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="615.11811" y="358.793506" transform="rotate(-0 615.11811 358.793506)">task V3 phones: 28 RUs per floor, switch 3: 32 ports</text>
+   </g>
+   <g id="text_109">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="551.338583" y="368.876552" transform="rotate(-0 551.338583 368.876552)">C</text>
+   </g>
+   <g id="text_110">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #1a1a1a" x="588.188976" y="368.876552" transform="rotate(-0 588.188976 368.876552)">24.10.2026</text>
+   </g>
+   <g id="text_111">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="615.11811" y="368.431302" transform="rotate(-0 615.11811 368.431302)">redrawn for A4 landscape; ports 10GE1/0/x</text>
+   </g>
+   <g id="text_112">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="541.417323" y="389.124215" transform="rotate(-0 541.417323 389.124215)">Project</text>
+   </g>
+   <g id="text_113">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="598.110236" y="389.227653" transform="rotate(-0 598.110236 389.227653)">SYNergy campus network · Huawei STC 2026</text>
+   </g>
+   <g id="text_114">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="541.417323" y="403.953082" transform="rotate(-0 541.417323 403.953082)">Title</text>
+   </g>
+   <g id="text_115">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="598.110236" y="399.727814" transform="rotate(-0 598.110236 399.727814)">Administrative building S1-A1: FTTO fibre</text>
+   </g>
+   <g id="text_116">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="598.110236" y="407.963162" transform="rotate(-0 598.110236 407.963162)">riser, ELV rooms and central ports</text>
+   </g>
+   <g id="text_117">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="541.417323" y="417.754136" transform="rotate(-0 541.417323 417.754136)">Drawing no.</text>
+   </g>
+   <g id="text_118">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="598.110236" y="418.337074" transform="rotate(-0 598.110236 418.337074)">SYN-LLD-A1-002</text>
+   </g>
+   <g id="text_119">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="541.417323" y="428.472767" transform="rotate(-0 541.417323 428.472767)">Scale</text>
+   </g>
+   <g id="text_120">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="598.110236" y="428.615736" transform="rotate(-0 598.110236 428.615736)">not to scale</text>
+   </g>
+   <g id="text_121">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="541.417323" y="438.677491" transform="rotate(-0 541.417323 438.677491)">Date / rev.</text>
+   </g>
+   <g id="text_122">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="598.110236" y="438.746523" transform="rotate(-0 598.110236 438.746523)">24.10.2026 · rev. C</text>
+   </g>
+   <g id="text_123">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="541.417323" y="448.882216" transform="rotate(-0 541.417323 448.882216)">Drawn / checked</text>
+   </g>
+   <g id="text_124">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="598.110236" y="448.471747" transform="rotate(-0 598.110236 448.471747)">Team SYNergy / —</text>
+   </g>
+   <g id="text_125">
+    <text style="font-size: 5.2px; font-family: 'Liberation Sans'; text-anchor: start; fill: #595959" x="541.417323" y="459.08694" transform="rotate(-0 541.417323 459.08694)">Sheet</text>
+   </g>
+   <g id="text_126">
+    <text style="font-size: 5.6px; font-family: 'Liberation Sans'; text-anchor: start; fill: #1a1a1a" x="598.110236" y="458.677784" transform="rotate(-0 598.110236 458.677784)">riser (FTTO)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p02321908a4">
+   <rect x="0" y="0" width="754.015748" height="476.220472"/>
+  </clipPath>
+ </defs>
+</svg>
