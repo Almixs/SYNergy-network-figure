@@ -3,7 +3,7 @@ from hwdraw import Diagram
 d = Diagram(180, 166, "fig05_dc")
 
 d.zone(4, 22, 172, 130, "DC-1 · own room in the basement of the Site 1 administrative building",
-       "DC-2 (own cage in ISP B's Tier III hall) is built the same way: own ERs, FW pair and hubs; AC-2 standby; NCE DR copy",
+       "DC-2 (own cage in ISP B's Tier III hall) is built the same way: own ERs, FW pair and hubs; AC-2 (pair 1, standby) and AC-3 (pair 2, active); NCE DR copy",
        kind="dc", title_pos="bottom")
 
 # ---- Internet
@@ -67,7 +67,7 @@ ends = [("srv", 14, "general_server", "Servers × 12", "TaiShan 200 · DCS", "LM
         ("dmz", 72, "web_server", "DMZ VMs", "web, LMS front-end", "authoritative DNS", 1),
         ("sto", 101, "storage_array", "OceanStor Dorado 3000", "HyperMetro with DC-2", "RPO 0 · quorum Site 3", 1),
         ("nce", 130, "general_nms", "Management", "NCE-Campus, NCE-Fabric", "SecoManager, HiSec Insight", 1),
-        ("ac", 159, "ac", "WLAN AC-1", "AirEngine 9703-S", "HSB with AC-2 (DC-2)", 1)]
+        ("ac", 159, "ac", "WLAN AC-1, AC-4", "AirEngine 9703-S", "HSB with AC-2, AC-3", 2)]
 for key, x, ic, n, m, s, st in ends:
     d.node(key, x, 129, ic, n, m, s, size=9, stack=st)
     top = 129 - d.n[key]["h"] / 2 - (1.4 if st > 1 else 0)

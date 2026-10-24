@@ -33,7 +33,7 @@ for key, x, side, name in (("ara", 15, "right", "S2-AR-A"), ("arb", 165, "left",
     d.line([(x, 64.3), (x, 76.5), (cx, 76.5), (cx, 73.7)], "g5")
 
 d.note(5, 166.5, "Every WAN edge AR: IPsec over ISP A and ISP B to the hubs of DC-1 and DC-2, MPLS L3VPN inside; home DC-2. "
-       "APs register to AC-1 / AC-2 through the tunnels; user data is forwarded locally.", size=4.5)
+       "APs register to AC-3 (DC-2, active) and AC-4 (DC-1, standby) through the tunnels; user data is forwarded locally.", size=4.5)
 
 core_buses(d, 9, 171, 86, 90, 49, 131, 73.7, 73.7)
 building(d, "admin", 6, 94, 1, 86, 90)
